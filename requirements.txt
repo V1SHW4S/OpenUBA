@@ -6,3 +6,4 @@ tensorflow==2.5.3
 coloredlogs==10.0 
 pymongo==3.10.1 
 mypy==0.761
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
